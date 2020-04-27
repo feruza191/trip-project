@@ -1,0 +1,115 @@
+{
+    "searches": [{
+        "label":"Results",
+        "data":[{
+                "value":"austria",
+                "text":"Austria",
+                "icon":"Austria.png"
+            },
+            {
+                "value":"france",
+                "text":"France",
+                "icon":"France.svg"
+            },
+            {
+                "value":"germany",
+                "text":"Germany",
+                "icon":"Germany.svg"
+            }]
+        }],
+    "countries": {
+        "tags": [{
+            "id": "5d176f92-4206-4833-a371-9641f5baa2ba",
+            "img": "Austria.png",
+            "coutryName": "Austria"
+        },
+        {
+            "id": "707c20f3-19b8-473d-a4bd-467e4b0e2f2d",
+            "img": "Germany.svg",
+            "coutryName": "Germany"
+        }
+    ],
+        "categories": [
+            {
+                "id": "b9b5a834-b109-4853-83e1-46f94fba2527",
+                "categoryName": "Drafts",
+                "items": [{
+                    "id": "ac6c339c-928b-45b0-b0d4-6b8566df899b",
+                    "img": "GermanyBig.svg",
+                    "coutryName": "Germany",
+                    "dateFrom": "Dec 17",
+                    "dateTo": "Dec 23",
+                    "address": "107, Na Ležánkách, 530 03, Pardubice, Pardubický kraj"
+                }]
+            },
+            {
+                "id": "4bde0550-5547-4864-9c80-997225ac5008", 
+                "categoryName": "Favourites", 
+                "items": [{
+                    "id": "be2c6b81-2b8b-4480-9e33-5308c7c4751a",
+                    "img": "Czechia.svg",
+                    "coutryName": "Czehia",
+                    "dateFrom": "Dec 17",
+                    "dateTo": "Dec 23",
+                    "address": "107, Na Ležánkách, 530 03, Pardubice, Pardubický kraj"
+                }]
+            },
+            {
+                "categoryName": "Recent", 
+                "items": [{
+                    "id": "9355f760-4be3-4411-933e-551b7ce05a28",
+                    "img": "Portugal.svg",
+                    "coutryName": "Portugal",
+                    "dateFrom": "Sep 21",
+                    "dateTo": "Sep 24",
+                    "address": "15, Unnamed Road, 5000, Vila Real"
+                },
+                {
+                    "id": "d5bcfe9f-514b-4fae-88e3-09f3e525e6af",
+                    "img": "FranceBig.svg",
+                    "coutryName": "France",
+                    "dateFrom": "Dec 17",
+                    "dateTo": "Dec 23",
+                    "address": "1110, Rue aux Moines, 70120, Lavigney, Haute-Saône, Bourgogne-Franche..."
+                }]
+            }
+        ]
+    },
+    "trips": [
+        {
+            "id": "0c4a186b-0c13-411b-90a5-bf8e567b2027", 
+            "categoryTrip": "Current Trip", 
+            "items": [{
+                "id": "a54a15f7-feba-4901-854c-d5199b4ccb5d",
+                "img": "Austria.png",
+                "coutryName": "Austria",
+                "dateFrom": "Jul 14",
+                "dateTo": "Sep 20",
+                "address": "22, Wöllach, 9562, Wöllach, Feldkirchen, Kärnten",
+                "details": "ID card is required"
+            }]
+        },
+        {
+            "id": "4c7b98aa-8d76-4dda-89f7-7990191faa87", 
+            "categoryTrip": "Planned", 
+            "items": [{
+                "id": "794834a9-7bb1-434a-a0ab-6c21fef6cafe",
+                "img": "UnitedKingdom.svg",
+                "coutryName": "United Kingdom",
+                "dateFrom": "Jul 14",
+                "dateTo": "Sep 20",
+                "address": "22, Wöllach, 9562, Wöllach, Feldkirchen, Kärnten",
+                "details": "Passport required"
+            },
+            {
+                "id": "454834a9-7bb1-434a-a0ab-6c21fef6cafe",
+                "img": "Germany.svg",
+                "coutryName": "Germany",
+                "dateFrom": "Jul 14",
+                "dateTo": "Sep 20",
+                "address": "22, Wöllach, 9562, Wöllach, Feldkirchen, Kärnten",
+                "details": "Passport required"
+            }]
+        }
+    ]
+}
