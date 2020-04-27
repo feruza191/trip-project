@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "no-console":"error",
+        "no-var": "error",
+        "no-multiple-empty-lines": "error",
+        "object-curly-spacing": ["error", "always"],
+        "semi": ["error", "always"],
+        "no-useless-return": "error"
+    }
+}
